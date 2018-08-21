@@ -1,5 +1,7 @@
 # tibetan-page-number
 
+[![Build Status](https://travis-ci.org/karmapa17/tibetan-page-number.svg?branch=master)](https://travis-ci.org/karmapa17/tibetan-page-number)
+
 Transfrom pbId to tibetan page number:
 
 `1-1-1a` => `༡ ན`
