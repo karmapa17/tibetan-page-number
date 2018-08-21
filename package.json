@@ -1,0 +1,17 @@
+{
+  "name": "tibetan-page-number",
+  "version": "0.0.1",
+  "main": "getTibetanPageNumber.js",
+  "scripts": {
+    "test": "nyc ava",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "repository": "https://github.com/karmapa17/tibetan-page-number.git",
+  "author": "chiehan <chieh.an.hsu@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "0.25.0",
+    "coveralls": "3.0.2",
+    "nyc": "12.0.2"
+  }
+}
