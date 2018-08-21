@@ -21,3 +21,6 @@ const pbId = '1-1-1a';
 
 getTibetanPageNumber(pbId); // return '༡ ན'
 ```
+
+# Reference
+palm leaf https://en.wikipedia.org/wiki/Palm-leaf_manuscript

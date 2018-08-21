@@ -1,5 +1,5 @@
 var tibetanNumbers = ['༠', '༡', '༢', '༣', '༤', '༥', '༦', '༧', '༨', '༩'];
-// palm leaf https://en.wikipedia.org/wiki/Palm-leaf_manuscript
+
 var palmLeafMap = {
   a: 'ན',
   b: 'བ',
