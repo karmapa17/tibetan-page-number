@@ -8,9 +8,9 @@ Transfrom pbId to tibetan page number:
 
 `1-1-1b` => `༡ བ`
 
-`1-1-1a` => `༡ ན་འོག`
+`1-1-1c` => `༡ ན་འོག`
 
-`1-1-1a` => `༡ བ་འོག`
+`1-1-1d` => `༡ བ་འོག`
 
 ps. The prefix `1-1-` will be removed.
 
